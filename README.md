@@ -16,15 +16,15 @@ Finally, events held logs community calls, collaboration cafes, and workshops ac
 Output
 Running the script prints a full year summary to the console and generates a 4-panel dashboard chart saved as community_health_dashboard.png.
 
-====================================================
-   COMMUNITY HEALTH REPORT — FULL YEAR SUMMARY
-====================================================
-  Total new members joined     : 393
+-----------------------------------
+COMMUNITY HEALTH REPORT — FULL YEAR SUMMARY
+-----------------------------------
+Total new members joined     : 393
   Peak monthly new members     : 60 (Dec)
   Total issues opened          : 246
   Total issues closed          : 220
   Avg issue resolution rate    : 89.3%
   Total community events held  : 34
   Avg active contributors/month: 16.2
-====================================================
-
+  
+------------------------------------
