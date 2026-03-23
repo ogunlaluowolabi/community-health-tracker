@@ -3,7 +3,7 @@
 Community Health Tracker
 
 A Python tool for tracking and visualising key health metrics for open source communities.
-Built with real community management work in mind — the kind of metrics that matter when you are running contributor programs, managing onboarding, and reporting community growth to stakeholders.
+Built with real community management work in mind. It contains the kind of metrics that matter when you are running contributor programs, managing onboarding, and reporting community growth to stakeholders.
 
 ---------------------------------
 What it tracks
@@ -16,9 +16,9 @@ Finally, events held logs community calls, collaboration cafes, and workshops ac
 Output
 Running the script prints a full year summary to the console and generates a 4-panel dashboard chart saved as community_health_dashboard.png.
 
------------------------------------
+--------------------------------------------
 COMMUNITY HEALTH REPORT — FULL YEAR SUMMARY
------------------------------------
+--------------------------------------------
 Total new members joined     : 393
   Peak monthly new members     : 60 (Dec)
   Total issues opened          : 246
